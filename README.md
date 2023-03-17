@@ -11,9 +11,7 @@
 
 - 👀 I'm 22 years old and already have two years of experience developing app's and web's.
 
-- 🔭 lately I am working as a **FullstackJS developer**
-
-- 🌱 I’m learning lately **Flutter and ThreeJS**
+- 🔭 Lately I am working as a **FullstackJS developer**
 
 - 👯 I’m looking to collaborate on **Frontend, Backend and Mobile development.**
 
