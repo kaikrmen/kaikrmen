@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently interested in new technologies.
 
-- 👀 I'm 22 years old and already have two years of experience developing app's and web's.
+- 👀 I'm 22 years old and already have two years of experience developing apps and webs.
 
 - 🔭 Lately I am working as a **FullstackJS developer**
 
