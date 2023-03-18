@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ka'í</h1>
 <h2 align="center">I'm a Software engineer and Flutter developer.</h2>
 
-#
+
 
 # 💫 About Me:
 
