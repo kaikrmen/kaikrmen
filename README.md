@@ -66,5 +66,5 @@
   # 💰 You can help me by Donating
 
 
-   <p><a href="https://paypal.me/kaikrme"> <img  src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="kaikrmen" /></a></p> <p><a href="https://ko-fi.com/kaikrmen"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kaikrmen" /></a></p><br>
+   <p><a href="https://paypal.me/kaikrmen"> <img  src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" alt="kaikrmen" /></a></p> <p><a href="https://ko-fi.com/kaikrmen"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kaikrmen" /></a></p><br>
 
