@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **leoncarmen096@gmail.com**
+- 📫 How to reach me **kaileon778@gmail.com**
 
 - 📄 Know about my experiences In the last two years I have worked in frontend and backend development, using angular as framework and express for the backend, all this for the creation of marketplaces, I have also developed apps in flutter with modern UI. 
 
