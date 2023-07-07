@@ -7,7 +7,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/gdy0KASjD1QAAAAM/ein-cowboy-bebop.gif"  />
 
 ###
 
