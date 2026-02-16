@@ -90,7 +90,7 @@ Flutter · Cross-platform architecture
 
 ## AI Systems & Intelligent Automation
 
-AI is treated as a system capability embedded in infrastructure not a user-facing feature.
+AI is treated as a system capability embedded in infrastructure, not a user-facing feature.
 
 • LLM integration (OpenAI, Claude)
 
