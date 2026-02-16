@@ -51,6 +51,18 @@ Many implementations are delivered under private contracts and NDA-protected env
 
 ---
 
+## Engineering Impact
+
+• Designed production systems processing high-volume structured datasets  
+• Built real-time infrastructure for logistics and operational tracking  
+• Developed AI pipelines for automated document and data transformation  
+• Delivered enterprise headless CMS architectures for high-traffic platforms  
+• Optimized processing latency and system reliability in distributed environments  
+• Architected scalable platforms deployed in cloud-native production environments
+
+---
+
+
 ## Core Technical Domains
 
 ### Content Platforms & Headless CMS Architecture
@@ -78,7 +90,7 @@ Flutter · Cross-platform architecture
 
 ## AI Systems & Intelligent Automation
 
-AI is implemented as infrastructure not as a productivity tool.
+AI is treated as a system capability embedded in infrastructure not a user-facing feature.
 
 • LLM integration (OpenAI, Claude)
 
@@ -95,6 +107,17 @@ AI is implemented as infrastructure not as a productivity tool.
 Production implementations include AI-assisted transformation of large structured datasets and automated decision-support pipelines.
 
 ---
+
+## Professional Experience Context
+
+Experience delivering production systems across logistics, financial processing, content infrastructure, and AI-driven data environments.
+
+Projects include large-scale data processing platforms, real-time operational systems, and enterprise CMS architectures.
+
+Most implementations are delivered under private contracts and non-disclosure agreements.
+
+---
+
 
 ## System Architecture
 
@@ -148,21 +171,28 @@ Some implementations are developed under non-disclosure agreements. Technical de
 
 ---
 
-## Services
+## What I Build
 
-• Full-Stack Development
+• Production-grade software platforms  
+• AI-powered data processing systems  
+• Cloud-native distributed architectures  
+• Headless CMS content infrastructures  
+• High-performance full-stack applications  
+• Intelligent automation pipelines  
 
-• System Architecture Design
+Focused on reliability, scalability, and long-term operational stability.
 
-• AI Integration & Automation
+---
 
-• Cloud Infrastructure Engineering
 
-• Mobile Application Development
 
-• Performance Optimization
+## Education
 
-• Technical Consulting
+**Universidad Rafael Belloso Chacín (URBE)**  
+Bachelor’s Degree in Computer Engineering  
+2017 - 2021  
+
+Software Engineering · Systems Architecture · Data Structures · Distributed Systems
 
 ---
 
